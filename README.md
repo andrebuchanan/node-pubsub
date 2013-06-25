@@ -25,5 +25,12 @@ Produces output:
       '1': 'two',
       '2': 'three',
       '3': '<-- these are args' } or  one two three <-- these are args
+      
+There's a subonce method which will behave like a sub method but will only execute the callback once.
+
+    topic.subonce("topicname", function()
+    {
+        console.log("I am here one time only!");
+    });
 
 
