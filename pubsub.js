@@ -1,7 +1,6 @@
 var Events = require("events").EventEmitter;
 var events = new Events;
 
-// Start the server.
 exports.sub = subscribe;
 function subscribe(topic, cb)
 {
