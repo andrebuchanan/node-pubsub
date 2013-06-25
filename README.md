@@ -1,2 +1,3 @@
 pubsub
 ======
+Experimental and probably redundant node subsub. Question: Why does node-pubsub not use event emitter? Seems simpler...
