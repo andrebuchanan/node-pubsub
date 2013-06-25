@@ -1,6 +1,6 @@
 pubsub
 ------
-Experimental and probably redundant node subsub. Question: Why does node-pubsub (https://github.com/swallentin/node-pubsub) not use event emitter? Seems simpler...
+Experimental and probably redundant node pubsub. Question: Why does node-pubsub (https://github.com/swallentin/node-pubsub) not use event emitter? Seems simpler...
 
 Usage
 -----
